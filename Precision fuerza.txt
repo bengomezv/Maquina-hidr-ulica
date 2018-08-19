@@ -2,3 +2,8 @@ Los sistemas hidraulicos
 son de alta precision
 para mover cargas pesadas
 con cambio de velocidad.
+
+Los sistemas mas avanzados
+en equipo hidraulico
+son del tipo servohidraulicos
+ademas son mas costosos
