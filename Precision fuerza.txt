@@ -7,3 +7,6 @@ Los sistemas mas avanzados
 en equipo hidraulico
 son del tipo servohidraulicos
 ademas son mas costosos
+
+Ademaslos sistemas son complejos
+debido a la electronica analogica
