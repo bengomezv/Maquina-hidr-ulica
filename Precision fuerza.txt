@@ -8,5 +8,7 @@ en equipo hidraulico
 son del tipo servohidraulicos
 ademas son mas costosos
 
-Ademaslos sistemas son complejos
+Ademas los sistemas son complejos
 debido a la electronica analogica
+Ademas de precisos son resitentes
+A la alta temperatura
